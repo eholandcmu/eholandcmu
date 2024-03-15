@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+I am a current student at Carnegie Mellon University pursuing a Master of Science in Robotics.
+
+Previously, I completed my Bachelor of Science in Mechanical Engineering at Northeastern University.
 
 <!--
 **eholandcmu/eholandcmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
