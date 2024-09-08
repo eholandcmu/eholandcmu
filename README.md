@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a current student at Carnegie Mellon University pursuing a Master of Science in Robotics.
+I am a current student at Carnegie Mellon University pursuing a Master of Science in Robotics. My work specializes in rover mobility.
 
 Previously, I completed my Bachelor of Science in Mechanical Engineering at Northeastern University.
 
